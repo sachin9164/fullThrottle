@@ -1,8 +1,8 @@
 ## Employee Time Report
 
-- For **styling** we have used materialize CSS .
+- For **styling** i have used materialize CSS .
 - To fetch **data** i had created mock API using https://mockapi.io/ and stored all the given JSON in that API.
-- For calendar we have added react-calendar-timeline as dependency.
+- For calendar i have added react-calendar-timeline as dependency.
 
 ###Project Website Link
 
